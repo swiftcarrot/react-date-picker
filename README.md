@@ -1,2 +1,3 @@
-# react-native-date-picker
-Date picker
+# react-date-picker
+
+Date picker for React and React Native
